@@ -1,2 +1,2 @@
-# lawyer-email-automation-script
+# Lawyer Email Automation Script
 Automate contacting lawyers
